@@ -5,7 +5,7 @@ This project is an AI-powered image captioning system that takes an image as inp
 ## Features
 - EfficientNet-based image feature extractor
 - Transformer encoder-decoder architecture
-- Trained on Flickr8k dataset
+- Trained on Flickr30k dataset
 - Data augmentation & GAN-enhanced samples
 - Modular and scalable codebase
 
